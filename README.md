@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kirtygupta06@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/kirty-gupta"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guptakirty11@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kirtygupta111/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=kirtygupta&style=for-the-badge&color=ff69b4" alt="Profile Views">
 </p>
 
