@@ -40,16 +40,15 @@
 ---
 
 ## 💼 Tech Stack
-
-### 👨‍💻 Languages
-`Python` | `SQL` | `C++` | `HTML` | `CSS`
-
-### 📦 Libraries & Frameworks
-`Pandas` | `NumPy` | `Scikit-learn` | `Seaborn` | `Matplotlib`  
-`Flask` | `Streamlit` | `Tkinter` | `Joblib` | `ASP.NET`  
-
-### 📊 Tools & Platforms
-`Excel (Advanced)` | `Power BI` | `Google Earth Engine` | `SQLite` | `MySQL` | `PostgreSQL` | `GitHub`
+<p>
+👨‍💻 Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p></p>
+<p>
+📦 Libraries & Frameworks
+<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-44B8B1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Matplotlib-3B4D92?style=for-the-badge"/> <br/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge"/> <img src="https://img.shields.io/badge/Joblib-333333?style=for-the-badge"/> <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/> </p></p>
+<p>
+📊 Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p></p>
 
 ---
 
