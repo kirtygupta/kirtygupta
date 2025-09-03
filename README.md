@@ -19,7 +19,7 @@
 
 🎓 I'm a B.Tech student in **Artificial Intelligence & Data Science** at VIPS-TC, Delhi (2022–2026), with a strong foundation in data-driven technologies and applied AI.
 
-🚀 I'm currently interning at **Sofuled AI** and have previously worked with **Celebal Technologies**, **NIC**, and **Infosys Springboard**.
+🚀 I'm currently interning at **GCSDR** and have previously worked with **Celebal Technologies**, **NIC**, and **Infosys Springboard**.
 
 💡 I enjoy building impactful tools: from AI chatbots to analytics dashboards.
 
