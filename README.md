@@ -31,7 +31,7 @@
 
 | 🏢 Organization              | 🧑‍💻 Role                    | 📅 Duration           |
 |-----------------------------|------------------------------|-----------------------|
-| 🎯 Sofuled AI               | AI/ML Intern                 | Jul 2 – Aug 2, 2025   |
+| 🎯 GCSDR               | AI/ML Intern                 | Jul 1 – Aug 15, 2025   |
 | 📊 Celebal Technologies     | Data Science Intern          | Jun 2 – Aug 3, 2025   |
 | 🎓 Infosys Springboard      | Pragati Cohort 5 Learner     | May 8 – Present       |
 | 🏛️ NIC (Govt. of India)     | Data Analytics Intern         | July 2024             |
